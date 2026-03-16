@@ -1,0 +1,12 @@
+ now we are  doing with the chapter 4 
+                list and tuple
+    # That is the properties of this 
+    * list
+    In puthon we can store the data of any type in the list 
+    listname =["qw","asdf","jkl"]      
+
+             this is how we can store the data in it 
+
+             list is immutable
+             + operator can be used for the concatination purpse for it so it will be used for it
+                
