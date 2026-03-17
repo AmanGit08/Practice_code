@@ -1,0 +1,19 @@
+Here we are studying about the dictionary and the sets 
+here we will study about how to difine the dicticnary and the sets 
+dictnaory : It is nothing but the collection of the key : value pair it self which is futher stored in the curly braces { Key: value}
+
+
+some of the method of the dictnoary 
+
+
+Sets it is the colletion of non repetative objects
+1) add()
+this can eaisly add the value the set and which is add in the last
+2) update()
+this is used to add multiple elements in the set like tuple list
+ the sets are unordered
+ the is no way to change the object
+ set can not contain the duplicate value
+ there is no indexing in the set
+
+ len() method is common for all that is tuple list dictionary and set
